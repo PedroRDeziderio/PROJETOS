@@ -1,0 +1,46 @@
+body{
+   background-image: url("https://images.pexels.com/photos/1616403/pexels-photo-1616403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+}
+
+
+.nav-a,
+.nav-b{
+   color: rgb(126, 23, 23);
+   font-size:  30px; 
+   text-decoration: none;
+   display: block;
+   margin: 20px;
+   
+  
+}
+
+.nav-a:hover{
+   color: rgb(255, 0, 221);
+}
+   
+
+.nav-b:hover{
+   color: rgb(255, 0, 221);
+  
+  
+
+}
+
+
+.nome{
+   color:rgb(0, 255, 110) ;
+   margin-bottom: 50px;
+   text-align: center;
+}
+
+.inform{
+   text-align: center;
+}
+
+.infos{
+   text-align: center;
+
+}
+
+
+
