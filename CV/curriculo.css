@@ -49,5 +49,11 @@ body{
    text-align: center;
 }
 
+.table,th,tr{
+        border: 1px solid;
+}
+
+
+
 
 
