@@ -1,49 +1,38 @@
-*{
-    background-color: gray;
+table,th,td{
+    border: 3px solid;
 }
-
-
-.table, th, td {
-    text-align: center;
-    border: 1px solid;
-}
-
 
 table{
-    width: 500px; 
-    border-collapse:collapse; 
-    
+  border-collapse: collapse;
+  width: 100%;
 }
 
-td{
-    height: 70px;
+th, td {
+  padding: 8px;
+  text-align: left;
+  
 }
 
-th {
-  background-color: #0015ff;
-  color: white;
+tr:nth-child(even) {background-color: gray;}
+
+th{
+    height: 40px;
+    background-color: chartreuse;
+    color: dimgray;
+    text-align: center;
 }
 
 .dev-a,
 .dev-b{
-    color: rgb(126, 23, 23);
-    font-size:  30px; 
-    text-decoration: none;
-    display: block;
-    margin: 20px;
+    text-align: center;
+    font-size: 60px;   
 }
 
 .dev-a:hover{
-    color: aqua;
+    color: chartreuse;
 }
 
 .dev-b:hover{
-    color: aqua;
+    color: chartreuse;
 }
-
-.td{
-    text-align: center;
-}
-
-
 
