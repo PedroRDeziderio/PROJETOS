@@ -22,17 +22,23 @@ th{
     text-align: center;
 }
 
-.dev-a,
-.dev-b{
+.a,
+.b,
+.c{
+    color: #ff002b;
     text-align: center;
     font-size: 60px;   
 }
 
-.dev-a:hover{
+.a:hover{
     color: chartreuse;
 }
 
-.dev-b:hover{
+.b:hover{
     color: chartreuse;
 }
 
+.c:hover{
+    color: chartreuse;
+
+}
